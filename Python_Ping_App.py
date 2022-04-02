@@ -9,7 +9,7 @@ def get_ping():
 # object of tkinter
 # and background set for light grey
 master = Tk()
-master.configure(bg='light grey')
+master.configure(bg='light green')
 
 # Variable Classes in tkinter
 res = StringVar()
