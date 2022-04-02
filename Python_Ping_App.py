@@ -32,4 +32,3 @@ b = Button(master, text="Show", command=get_ping)
 b.grid(row=0, column=2, columnspan=2, rowspan=2, padx=5, pady=5)
 
 mainloop()
-# The End
